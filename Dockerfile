@@ -1,4 +1,4 @@
-FROM node:nikolaik/python-nodejs:python3.8-nodejs12
+FROM node:nikolaik/python-nodejs:python3.8-nodejs14
 
 
 LABEL version="1.0.0"
